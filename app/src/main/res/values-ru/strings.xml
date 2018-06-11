@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poemPushkin">
+        У лукоморья дуб зеленый; \n
+        Златая цепь на дубе том:\n
+        И днем и ночью кот ученый\n
+        Всё ходит по цепи кругом;\n
+    </string>
+    <string name="signaturePushkin">Подпись Пушкина</string>
+    <string name="buttonTextTask1">Боль и страдание</string>
+    <string name="button1TextTask2">Кнопка 1</string>
+</resources>

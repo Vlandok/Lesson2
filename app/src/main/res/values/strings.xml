@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson2_Maskaikin</string>
+    <string name="buttonTask1">Задание 1</string>
+    <string name="buttonTask2">Задание 2</string>
+    <string name="poemPushkin">Sorry, there is nothing</string>
+    <string name="signaturePushkin">Pushkin\'s signature</string>
+    <string name="buttonTextTask1">Pain and suffering</string>
+    <string name="button1TextTask2">Button 1</string>
+</resources>
